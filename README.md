@@ -1,2 +1,2 @@
 # Artificial_Intelligence
-This repository will contain homework from the Artificial Intelligence class.
+This repository will contain homework from my Artificial Intelligence class.
